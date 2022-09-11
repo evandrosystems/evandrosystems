@@ -1,6 +1,7 @@
-<img src="laravel.png" width="50" align="right"><img src="php.png" width="90" align="right"><img src="python.jpg" width="55" align="right"><img src="mysql.jpg" width="55" align="right">
+<img src="laravel.png" width="50" align="right"><img src="php.png" width="90" align="right"><img src="python.jpg" width="55" align="right"><img src="mysql.png" width="90" align="right">
 
-### Seja bem vindo. 😌
+### Seja bem vindo.
+<p>Sou programador PHP a mais de 5 anos e desde então tenho trabalhado em algumas empresas e também como freelancer.</p>
 
 <!--
 **evandrosystems/evandrosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
