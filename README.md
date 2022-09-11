@@ -1,6 +1,6 @@
-<img src="laravel.png" width="50" align="right"><img src="laravel.png" width="50" align="right">
+<img src="laravel.png" width="50" align="right"><img src="php.png" width="90" align="right"><img src="python.png" width="90" align="right">
 
-### Seja bem vindo recrutador, quero dizer visitante. 😌
+### Seja bem vindo. 😌
 
 <!--
 **evandrosystems/evandrosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
