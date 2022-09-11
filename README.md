@@ -1,4 +1,4 @@
-<img src="laravel.png" width="50" align="right"><img src="php.png" width="90" align="right"><img src="python.jpg" width="55" align="right"><img src="mysql.png" width="90" align="right">
+<img src="python.svg" width="40" align="right"><img src="linux.svg" width="40" align="right"><img src="php.svg" width="65" align="right">
 
 ### Seja bem vindo ao meu perfil.
 <p>Tenho 29 anos e 12 meses de idade, trabalho com PHP desde 2018. Já fui freelancer, já trabalhei como programador full-stack, mas hoje procuro vagas para programador PHP Back-end.</p>
