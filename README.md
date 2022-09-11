@@ -1,7 +1,3 @@
-Seja be vindo ao meu perfil do hithub.
-
-Pode me chamar de vando. Sou programador PHP a mais de 4 anos.
-
 <!--
 **evandrosystems/evandrosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
