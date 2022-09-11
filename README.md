@@ -1,4 +1,4 @@
-<img src="laravel.png" width="50" align="right"><img src="php.png" width="90" align="right"><img src="python.png" width="90" align="right">
+<img src="laravel.png" width="50" align="right"><img src="php.png" width="90" align="right"><img src="python.jpg" width="55" align="right"><img src="mysql.jpg" width="55" align="right">
 
 ### Seja bem vindo. 😌
 
