@@ -1,4 +1,4 @@
-<table style="border:none;">
+
   <tr>
     <td style="border: none;">
       <a href="https://github.com/evandrosystems">
@@ -11,5 +11,4 @@
       </a>
     </td>
   </tr>
-</table>
 
