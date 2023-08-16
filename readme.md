@@ -1,16 +1,22 @@
-
-<table style="border:none; border-color:none;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://github.com/evandrosystems">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrosystems"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/evandrosystems">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=evandrosystems"/>
-      </a>
-    </td>
-  </tr>
-</table>
+```
+{
+  "nome": "Evandro S A Silva",
+  "idade": "31 anos",
+  "descricao": "Sou um feio quase bonito, um chato bem legal e xonado em programação, na área mobile e web",
+  "formacao": {
+    "tecnico": "Análise e desenvolvimento de sistemas",
+    "superior": "Engenharia de Software"
+  },
+  "experiencia": [
+    {
+      "cargo": "Estágio Programador PHP Júnior (Remoto)",
+      "empresa": "Kernel Systems Informática - Goiânia - GO"
+    },
+    {
+      "cargo": "Pesquisador | Programador Python Full-stack Júnior (Remoto)",
+      "empresa": "UFPE - Recife - PE"
+    }
+  ]
+}
+```
 
